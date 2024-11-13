@@ -19,3 +19,6 @@ STEP 4. SSH into your instance
 run sudu systemctl status jenkins to verify jenkins is running
 
 ![image](https://github.com/user-attachments/assets/526d6e30-82ea-48cc-99f4-33ffa6aeaaaf)
+
+Login to Jenkins
+![Uploading image.png…]()
