@@ -13,3 +13,9 @@ STEP 2: Update the user Data to download Java and Jenkins on our system
 STEP 3. Launch a 2nd EC2 Instance for your Grafana Server
 ![image](https://github.com/user-attachments/assets/cae3f79d-cecc-473e-b747-2a996431cd69)
 
+STEP 4. SSH into your instance
+![image](https://github.com/user-attachments/assets/89b5bed6-5b0f-4189-ba42-0216abf82c77)
+
+run sudu systemctl status jenkins to verify jenkins is running
+
+![image](https://github.com/user-attachments/assets/526d6e30-82ea-48cc-99f4-33ffa6aeaaaf)
