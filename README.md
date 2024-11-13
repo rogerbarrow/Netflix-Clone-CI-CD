@@ -21,4 +21,9 @@ run sudu systemctl status jenkins to verify jenkins is running
 ![image](https://github.com/user-attachments/assets/526d6e30-82ea-48cc-99f4-33ffa6aeaaaf)
 
 Login to Jenkins
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/57c48941-e1b9-4949-804d-d851254bbbe7)
+
+
+Next Install Docker
+![image](https://github.com/user-attachments/assets/399137f0-be2f-46b9-b5e2-905d2af6b9e1)
+
