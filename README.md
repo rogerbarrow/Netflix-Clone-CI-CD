@@ -27,3 +27,6 @@ Login to Jenkins
 Next Install Docker
 ![image](https://github.com/user-attachments/assets/399137f0-be2f-46b9-b5e2-905d2af6b9e1)
 
+Next Intall sonarqube
+![image](https://github.com/user-attachments/assets/ecff0d95-c08d-4445-8335-5a42d171d238)
+
