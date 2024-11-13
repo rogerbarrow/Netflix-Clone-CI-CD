@@ -32,4 +32,10 @@ Next Intall sonarqube
 
 ![image](https://github.com/user-attachments/assets/68382d4e-0a09-492a-94d6-aed6008cdd03)
 
+Intall 
+![image](https://github.com/user-attachments/assets/e9f33a3c-47b7-4c2c-a8b6-ff69793a5a96)
+
+next we Install Prometheus
+![image](https://github.com/user-attachments/assets/6be00b52-e025-42eb-a4ce-ea53f24d4913)
+
 
