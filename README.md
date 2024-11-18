@@ -1,4 +1,7 @@
 # Netflix-Clone-CI-CD
+![image](https://github.com/user-attachments/assets/2cc6a7fe-6e7f-480a-afc8-f3a9ae54bdd1)
+
+
 
 Clone your Application locally with the git clone command
 ![image](https://github.com/user-attachments/assets/dcd50689-0b09-4b40-ad5b-6317b101b4cd)
